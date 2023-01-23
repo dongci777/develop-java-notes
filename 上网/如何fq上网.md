@@ -18,7 +18,7 @@ https://github.com/BoyceLig/Clash_Chinese_Patch/releases
 
 
 
-## 三、
+## 三、✈️ （便宜稳定） 
 
 https://52zm.co/
 
@@ -28,4 +28,4 @@ https://52zm.co/
 
 ## 三、配置
 
-参考clash for windows官方文档
+参考clash for windows官方文档：https://docs.cfw.lbyczf.com/
