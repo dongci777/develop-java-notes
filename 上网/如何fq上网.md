@@ -18,7 +18,7 @@ https://github.com/BoyceLig/Clash_Chinese_Patch/releases
 
 
 
-## 三、
+## 三、✈️ （便宜稳定） 
 
 https://52zm.co/
 
