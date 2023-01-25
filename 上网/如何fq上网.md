@@ -26,6 +26,6 @@ https://52zm.co/
 
 
 
-## 三、配置
+## 四、配置
 
 参考clash for windows官方文档：https://docs.cfw.lbyczf.com/
