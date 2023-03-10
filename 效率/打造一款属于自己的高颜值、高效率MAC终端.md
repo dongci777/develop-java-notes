@@ -218,3 +218,14 @@ brew install fig
 ![image-20230124003328225](https://cdn.jsdelivr.net/gh/dongci777/cloudimg/data/%E5%AE%89%E8%A3%85Fig.png)
 
 安装完之后，运行，就可以在各种开发IDE的终端下面进行一个命令提示，也有其他一些比如Script、CLI等功能
+
+
+
+# 九、问题
+
+1、Fix Oh My Zsh “Insecure completion-dependent directories detected”
+
+```
+ZSH_DISABLE_COMPFIX=true
+```
+
