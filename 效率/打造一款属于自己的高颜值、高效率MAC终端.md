@@ -73,7 +73,7 @@ chsh -s /bin/zsh
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
 # 国内源
-https://gitee.com/mirrors/oh-my-zsh/raw/master/tools/install.sh
+sh -c "$(curl -fsSL https://gitee.com/Devkings/oh_my_zsh_install/raw/master/install.sh)"
 ```
 
 ![img](https://cdn.jsdelivr.net/gh/dongci777/cloudimg/data/oh-my-zsh-00.png)
